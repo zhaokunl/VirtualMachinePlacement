@@ -1,7 +1,7 @@
 VirtualMachinePlacement
 =======================
 
-Machine Learning Optimizations for Virtual Machine Allocations
+Virtual Machine Scheduling Simulations with Multiple Algorithms
 
 #### Technology Set
 - **Simulation Tool**: [CloudSim](http://www.cloudbus.org/cloudsim/)
