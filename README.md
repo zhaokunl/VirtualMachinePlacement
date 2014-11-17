@@ -15,3 +15,5 @@ Virtual Machine Scheduling Simulations with Multiple Algorithms
 2. CloudSim: a toolkit for modeling and simulation of cloud computing environments and evaluation of resource provisioning algorithms. Rodrigo N. Calheiros, Rajiv Ranjan, Anton Beloglazov, César A. F. De Rose, Rajkumar Buyya.
 
 3. Cloud Resource Schedule Based on Cellular Automata Genetic Algorithm. ZHANG Shui-pinga, WU Hai-yan.
+
+4. Host Scheduling Algorithm Using Genetic Algorithm In Cloud Computing Environment. Tarun Goyal & Aakanksha Agrawal. 
